@@ -1,5 +1,7 @@
-body {
-    text-align: center;
-    font-family: Arial;
-    color: pink;
+
+
+.container{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(63, 17, 106, 0.252);
 }
