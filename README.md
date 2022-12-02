@@ -16,4 +16,12 @@ Esto es mi primer repositorio oficial entendiendo las bases de git
 
 -Pull requets
 
+<<<<<<< HEAD
 -Cosas increibles en el curso
+=======
+-Cosas increibles en el curso
+
+-Y muchas cosas mas
+
+-:D
+>>>>>>> Read-mejorado
